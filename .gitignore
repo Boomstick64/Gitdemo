@@ -1,0 +1,13 @@
+# User configuration files
+*.user
+
+*.junk
+
+# Tool generated files
+.vs/
+
+# Build artifacts
+x64/
+
+Debug/
+Release
